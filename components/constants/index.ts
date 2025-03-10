@@ -1,4 +1,3 @@
-import { link } from "fs";
 
   export const Socials = [
     {
@@ -14,7 +13,7 @@ import { link } from "fs";
     {
       name: "Instagram",
       src: "/discord.svg",
-      link: "https://hd.kinopoisk.ru/"
+      link: "#"
     },
   ];
   

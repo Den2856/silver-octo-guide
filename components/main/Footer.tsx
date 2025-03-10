@@ -2,9 +2,6 @@ import React from 'react'
 import {
   RxDiscordLogo,
   RxGithubLogo,
-  RxInstagramLogo,
-  RxTwitterLogo,
-  RxLinkedinLogo,
 } from "react-icons/rx";
 
 import { FaTelegram } from "react-icons/fa";
@@ -29,7 +26,7 @@ const Footer = () => {
 
                     <p className='flex flex-row items-center my-[15px] cursor-pointer'>
                         <RxDiscordLogo />
-                        <a href="https://hd.kinopoisk.ru/"><span className='text-[15px] ml-[6px]'>Discord</span></a>
+                        <a href="#"><span className='text-[15px] ml-[6px]'>Discord</span></a>
                     </p>
 
                 </div>
