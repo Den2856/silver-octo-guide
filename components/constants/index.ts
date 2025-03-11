@@ -55,22 +55,22 @@
       height: 80,
     },
     {
-      skill_name: "Redux",
-      Image: "/redux.png",
+      skill_name: "Vue",
+      Image: "/vue.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "React Query",
-      Image: "/reactquery.png",
+      skill_name: "jQuery",
+      Image: "/jquery.png",
       width: 80,
       height: 80,
     },
     {
       skill_name: "Type Script",
       Image: "/ts.png",
-      width: 80,
-      height: 80,
+      width: 65,
+      height: 65,
     },
     {
       skill_name: "Next js 13",
@@ -117,18 +117,6 @@
       width: 70,
       height: 70,
     },
-    {
-      skill_name: "Prisma",
-      Image: "/prisma.webp",
-      width: 70,
-      height: 70,
-    },
-    {
-      skill_name: "Graphql",
-      Image: "/graphql.png",
-      width: 80,
-      height: 80,
-    },
   ];
   
   export const Other_skill = [
@@ -143,7 +131,20 @@
       Image: "/docker.webp",
       width: 80,
       height: 80,
+    },
+    {
+      skill_name: "PoverBi",
+      Image: "/powerbi.png",
+      width: 70,
+      height: 70,
+    },
+    {
+      skill_name: "C#",
+      Image: "/csharp.png",
+      width: 70,
+      height: 70,
     }
+    
   ];
   
   
