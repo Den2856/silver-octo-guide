@@ -12,10 +12,16 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full grid grid-cols-3  md:flex-row gap-10 px-10">
         <ProjectCard
+          src="/projects/13.png"
+          link="https://miniature-guide-qoji.vercel.app/"
+          title="Brainwave"
+          description="Brainwave is a sleek, modern landing page for an AI‐powered chat application. "
+        />
+        <ProjectCard
           src="/projects/12.png"
           link="https://solid-guacamole-blond.vercel.app/"
           title="CarHub"
-          description="Find, book, rent a car—quick and super easy! Streamline your car rental experience with our effortless booking process."
+          description="Find, book, rent a car – quick and super easy! Streamline your car rental experience with our effortless booking process."
         />
         <ProjectCard
           src="/projects/1.png"
