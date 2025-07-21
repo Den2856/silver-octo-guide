@@ -12,6 +12,12 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full grid grid-cols-3  md:flex-row gap-10 px-10">
         <ProjectCard
+          src="/projects/14.png"
+          link="https://reimagined-octo-sniffle-chi.vercel.app/"
+          title="Tripsy"
+          description="Life Is An Adventure Make The Best Of It"
+        />
+        <ProjectCard
           src="/projects/13.png"
           link="https://miniature-guide-qoji.vercel.app/"
           title="Brainwave"
