@@ -18,6 +18,24 @@ const Projects = () => {
           description="Life Is An Adventure Make The Best Of It"
         />
         <ProjectCard
+          src="/projects/15.png"
+          link="https://refactored-garbanzo-one.vercel.app/"
+          title="EV_VOLTAGE"
+          description="EV_VOLTAGE found your own ev power"
+        />
+        <ProjectCard
+          src="/projects/16.png"
+          link="https://special-guacamole-theta.vercel.app/"
+          title="PLANTO"
+          description="Help you found the best plant for home"
+        />
+        <ProjectCard
+          src="/projects/17.png"
+          link="https://fuzzy-memory-9129.vercel.app/"
+          title="Weather NOW"
+          description="Two seconds and you will know the weather in any point of the world"
+        />
+        <ProjectCard
           src="/projects/13.png"
           link="https://miniature-guide-qoji.vercel.app/"
           title="Brainwave"
@@ -98,8 +116,6 @@ const Projects = () => {
           title="Loki - Watch Online"
           description="Watch the thrilling Marvel series Loki featuring Tom Hiddleston. Follow the god of mischief on his time-traveling adventures after Avengers: Endgame."
         />
-
-        
       </div>
     </div>
   );
